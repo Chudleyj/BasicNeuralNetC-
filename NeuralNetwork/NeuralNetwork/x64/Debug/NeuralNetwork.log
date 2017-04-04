@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\justi\desktop\gitrepos\basicneuralnetc-\neuralnetwork\neuralnetwork\source.cpp(79): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\justi\desktop\gitrepos\basicneuralnetc-\neuralnetwork\neuralnetwork\source.cpp(99): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\justi\desktop\gitrepos\basicneuralnetc-\neuralnetwork\neuralnetwork\source.cpp(288): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\justi\desktop\gitrepos\basicneuralnetc-\neuralnetwork\neuralnetwork\source.cpp(300): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\justi\desktop\gitrepos\basicneuralnetc-\neuralnetwork\neuralnetwork\source.cpp(330): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NeuralNetwork.vcxproj -> C:\Users\justi\Desktop\GitRepos\BasicNeuralNetC-\NeuralNetwork\x64\Debug\NeuralNetwork.exe
+  NeuralNetwork.vcxproj -> C:\Users\justi\Desktop\GitRepos\BasicNeuralNetC-\NeuralNetwork\x64\Debug\NeuralNetwork.pdb (Partial PDB)
